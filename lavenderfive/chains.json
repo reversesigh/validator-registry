@@ -111,6 +111,18 @@
       }
     },
     {
+      "name": "composable",
+      "address": "banksyvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zcpsz3j",
+      "restake": {
+        "address": "banksy12xpq68caw2aqdu70jm4k792g0v9prhrp2ye36n",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zfd832j",
       "restake": {
